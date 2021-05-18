@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "name": "The Matrix 3",
+      "rating": "8.1",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aOdTWn8dXlS0tA5xl0ZBr8Ws15R.jpg",
+      "id": 7
+    },
+    {
+      "name": "The Matrix 2",
+      "rating": "6.9",
+      "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+      "id": 8
+    },
+    {
+      "name": "Breaking Bad",
+      "rating": "8.7",
+      "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir. ",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mVhQd5ZiAcUJfFWPJRZW4Mliyur.jpg",
+      "id": 14
+    },
+    {
+      "name": "Vikingler",
+      "rating": "8.0",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rb9wNMrzQVet0YVgCuIyIAuKuB.jpg",
+      "overview": "Sekizinci yüzyıl İskandinavyası’nda geçen dizi, basit bir çiftçiyken cesur bir savaşçıya dönüşen Ragnar Lothbrok ve ailesinin öyküsünü ekranlara taşıyor. Savaş Tanrısı Odin'in soyundan geldiğine inanılan Ragnor’un acımasız ve korkusuz adamlarıyla birlikte denizlerle olan imtihanını seyrederken; savaşçı ve tüccar bir kavim olan Vikingler’in çok az işlenmiş ilgi çekici kültürüne hep birlikte tanık oluyoruz.\n\n",
+      "id": 15
+    },
+    {
+      "name": "Ucuz Roman ",
+      "rating": "8.0",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+      "overview": "Gangsterler camiasına içerden, unutulmaz bir bakış. Quentin Tarantino'yu her ne kadar önceki filmi Rezervuar Köpekleri ile çok övgü aldıysa da, kitlelere asıl tanıtan film. Ödül avcısı Butch Coolidge şeytanla yaptığı bir anlaşmada ödemeyi durdurmaya karar verir. Honey Bunny ve Pumpkin, hayatlarına biraz hareket katmak isteyen genç ve birbirine aşık bir çift küçük soyguncudur. Öteyandan, iki kaşarlanmış gangster, Vincent Vega ve Jules, günlük işlerinden biri olarak, patronlarına ödemeyi geciktiren bir kaç sahetekar genci vurmaya giderler.",
+      "id": 16
+    }
+  ]
+}
